@@ -1,15 +1,14 @@
 <img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/1657325d-b640-4c06-9e2e-7f5f404514ab" />
 
-# 📁 File Tracking System
+# 📁 Query Tracking System
 
 ## 📋 Overview
 The File Tracking System is a comprehensive solution designed to manage and track files efficiently, ensuring users can easily upload, retrieve, and manage their files.
 
 ## ✨ Features
 - 🔐 User authentication and authorization
-- 📤 Upload and download files seamlessly
-- 🔄 Version control for file updates
-- 🎨 User-friendly interface for managing files
+- 🔄 Version control for query updates
+- 🎨 User-friendly interface for managing query
 - 🔌 API endpoints for integration with other services
 
 ## 🛠️ Tech Stack
