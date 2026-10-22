@@ -3,7 +3,7 @@
 # 📁 Query Tracking System
 
 ## 📋 Overview
-The File Tracking System is a comprehensive solution designed to manage and track queries efficiently, ensuring users can easily upload, retrieve, and manage their files.
+The Query Tracking System is a comprehensive solution designed to manage and track queries efficiently, ensuring users can easily upload, retrieve, and manage their files.
 
 ## ✨ Features
 - 🔐 User authentication and authorization
@@ -19,7 +19,7 @@ The File Tracking System is a comprehensive solution designed to manage and trac
 
 ## 📂 Project Structure
 ```
-File-Tracking-System/
+Query-Tracking-System/
 ├── 📁 login/                          # Login & authentication module
 │   └── 📁 backend/                    # Backend server files
 │       └── 📁 node_modules/           # Dependencies (auto-generated)
